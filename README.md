@@ -10,8 +10,8 @@ Bootloader: Opencore 8.6
 - Wifi/BT: PCI BRCM94360CD 
 - Ethernet: RTL8111 
 
-- Working? 
+//Working? 
 - Everything.
 
-- Tested Versions?
+//Tested Versions?
 - Everything Up to Ventura 13.1 Beta 4
