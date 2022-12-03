@@ -7,7 +7,7 @@ Bootloader: Opencore 8.6
 - Ram: Corsair Vengance 16gb 3200Mhz
 - GPU: Sapphire Nitro Pulse RX 580 8GB
 - Boot Drive: WD Blue 1tb NVME 
-- Wifi/BT: PCI BRCM94360CD 
+- Wifi/BT: PCI BCM94360CD
 - Ethernet: RTL8111 
 
 //Working? 
